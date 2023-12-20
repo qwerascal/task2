@@ -1,0 +1,6 @@
+mkdir user1 user2 user3 user4 user5
+touch video{1..29}.txt
+cp -r user1/ user2
+cd user1
+cd ..
+nano commands_logs.txt
